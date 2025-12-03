@@ -1,0 +1,1 @@
+2025-12-03 18:09:31 [main] INFO  com.app.multithreading.logger.AppLogger - message
