@@ -22,6 +22,7 @@ public class Main {
             executor.submit(ship);
         }
 
+
         executor.shutdown();
 
         Thread.sleep(threadCount * 1000);
