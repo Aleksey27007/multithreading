@@ -11,7 +11,7 @@ public class Main {
     private static final AppLogger logger = AppLogger.getInstance();
     public static void main(String[] args) throws InterruptedException {
         Port port = new Port(100);
-        int threadCount = 5;
+        int threadCount = 20;
 
         ExecutorService executor = Executors.newFixedThreadPool(threadCount);
 
