@@ -26,7 +26,7 @@ public class Ship extends Thread {
     @Override
     public void run() {
         logger.info("{} started", getName());
-        // Запрашиваем причал
+
         port.requestBerth();
 
         while (!served) {
@@ -59,7 +59,6 @@ public class Ship extends Thread {
                     break;
                 }
             } else if (!served) {
-                // Если операция не выполнена, освобождаем причал и ждем
                 port.releaseBerth();
 
                 try {
@@ -69,12 +68,10 @@ public class Ship extends Thread {
                     break;
                 }
 
-                // Снова запрашиваем причал
                 port.requestBerth();
             }
         }
 
-        // Все операции выполнены
         logger.info("{} has finished all tasks", getName());
         port.releaseBerth();
     }
