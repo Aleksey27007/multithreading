@@ -1,0 +1,2511 @@
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 1 started.
+Ship: 0 started.
+Ship: 0 lock 0 berth
+Ship: 1 lock 0 berth
+Ship: 1 unlock 0 berth
+Ship: 0 unlock 0 berth
+Ship: 1 served.
+Ship: 0 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 1 started.
+Ship: 0 started.
+Ship: 1 lock 0 berth
+Ship: 0 lock 0 berth
+Ship: 0 unlock 0 berth
+Ship: 0 served.
+Ship: 1 unlock 0 berth
+Ship: 1 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 1 started.
+Ship: 0 started.
+Ship: 0 lock 0 berth
+Ship: 1 lock 0 berth
+Ship: 1 unlock 0 berth
+Ship: 0 unlock 0 berth
+Ship: 0 served.
+Ship: 1 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 1 started.
+Ship: 0 started.
+Ship: 1 lock 0 berth
+Ship: 1 unlock 0 berth
+Ship: 0 lock 0 berth
+Ship: 1 served.
+Ship: 0 unlock 0 berth
+Ship: 0 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 0 started.
+Ship: 1 started.
+Ship: 0 lock 0 berth
+Ship: 0 load 10 containers to com.app.multithreading.port.Berth@302223e0
+Ship: 0 unlock 0 berth
+Ship: 1 lock 0 berth
+Ship: 0 served.
+Ship: 1 load 10 containers to com.app.multithreading.port.Berth@302223e0
+Ship: 1 unlock 0 berth
+Ship: 1 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 0 started.
+Ship: 1 started.
+Ship: 0 lock 0 berth
+Ship: 0 load 10 containers to Berth: 0
+Ship: 0 unlock 0 berth
+Ship: 1 lock 0 berth
+Ship: 0 served.
+Ship: 1 load 10 containers to Berth: 0
+Ship: 1 unlock 0 berth
+Ship: 1 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 1 started.
+Ship: 0 started.
+Ship: 1 lock 0 berth
+Ship: 1 load 10 containers to Berth: 0
+Ship: 1 unlock 0 berth
+Ship: 0 lock 0 berth
+Ship: 1 served.
+Ship: 0 load 10 containers to Berth: 0
+Ship: 0 unlock 0 berth
+Ship: 0 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 0 started.
+Ship: 1 started.
+Ship: 0 lock 0 berth
+Ship: 0 load 10 containers to Berth: 0
+Ship: 0 unlock 0 berth
+Ship: 1 lock 0 berth
+Ship: 0 served.
+Ship: 1 load 10 containers to Berth: 0
+Ship: 1 unlock 0 berth
+Ship: 1 served.
+Port initialized with 2 berths, capacity per berth: 3
+Ship: 0 started.
+Ship: 1 started.
+Ship: 0 lock 0 berth
+Ship: 0 load 10 containers to Berth: 0
+Ship: 1 lock 0 berth
+Ship: 0 unlock 0 berth
+Ship: 0 served.
+Ship: 1 load 10 containers to Berth: 0
+Ship: 1 unlock 0 berth
+Ship: 1 served.
+Port initialized with 2 berths, capacity per berth: 3
+1 started.
+0 started.
+1 lock 0 berth
+1 load 10 containers to Berth: 0
+0 lock 0 berth
+1 unlock 0 berth
+1 served.
+0 load 10 containers to Berth: 0
+0 unlock 0 berth
+0 served.
+Port initialized with 2 berths, capacity per berth: 3
+0 started.
+0 lock 0 berth
+1 started.
+0 load 10 containers to Berth: 0
+1 lock 0 berth
+0 unlock 0 berth
+0 served.
+1 load 10 containers to Berth: 0
+1 unlock 0 berth
+1 served.
+Ship 0 has received permission
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 0 entered the port and is now IN_PORT
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 3 took one container. Remaining to take: 25
+Ship 0 took one container. Remaining to take: 25
+Ship 1 took one container. Remaining to take: 25
+Ship 2 took one container. Remaining to take: 25
+Ship 1 took one container. Remaining to take: 24
+Ship 3 took one container. Remaining to take: 24
+Ship 2 took one container. Remaining to take: 24
+Ship 0 took one container. Remaining to take: 24
+Ship 3 took one container. Remaining to take: 23
+Ship 1 took one container. Remaining to take: 23
+Ship 2 is waiting for suitable conditions in the port.
+Ship 0 is waiting for suitable conditions in the port.
+Ship 3 is waiting for suitable conditions in the port.
+Ship 1 is waiting for suitable conditions in the port.
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 entered the port and is now IN_PORT
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 2 took one container. Remaining to take: 25
+Ship 2 took one container. Remaining to take: 24
+Ship 2 took one container. Remaining to take: 23
+Ship 2 took one container. Remaining to take: 22
+Ship 2 took one container. Remaining to take: 21
+Ship 2 took one container. Remaining to take: 20
+Ship 2 took one container. Remaining to take: 19
+Ship 2 took one container. Remaining to take: 18
+Ship 2 took one container. Remaining to take: 17
+Ship 2 took one container. Remaining to take: 16
+Ship 2 is waiting for suitable conditions in the port.
+Ship 0 is waiting for suitable conditions in the port.
+Ship 3 is waiting for suitable conditions in the port.
+Ship 1 is waiting for suitable conditions in the port.
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 entered the port and is now IN_PORT
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 6
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 6
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 6
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 1 is leaving berth
+Current containers in Port: 6
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 2
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 1 is leaving berth
+Current containers in Port: 2
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 2
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 2
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 1 is leaving berth
+Current containers in Port: 0
+Ship 1 has received permission
+Ship 3 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 3 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 1 is leaving berth
+Current containers in Port: 0
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 1 is leaving berth
+Current containers in Port: 0
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 1 is leaving berth
+Current containers in Port: 0
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 6 has received permission
+Ship 6 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 1
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 6 is leaving berth
+Current containers in Port: 1
+Ship 6 has received permission
+Ship 6 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 1
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 1
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 6 is leaving berth
+Current containers in Port: 0
+Ship 4 has received permission
+Ship 4 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 4 is leaving berth
+Current containers in Port: 0
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 4 has received permission
+Ship 4 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 1
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 4 is leaving berth
+Current containers in Port: 1
+Ship 4 has received permission
+Ship 4 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 1
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 1
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 3 has received permission
+Ship 3 entered the port and is now IN_PORT
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 4 is leaving berth
+Current containers in Port: 0
+Ship 4 has received permission
+Ship 4 entered the port and is now IN_PORT
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 3 entered the port and is now IN_PORT
+Ship 2 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 1 has received permission
+Ship 1 entered the port and is now IN_PORT
+Ship 3 is leaving berth
+Current containers in Port: 6
+Ship 0 is leaving berth
+Current containers in Port: 6
+Ship 1 is leaving berth
+Current containers in Port: 6
+Ship 2 is leaving berth
+Current containers in Port: 6
+Ship 7 has received permission
+Ship 7 entered the port and is now IN_PORT
+Ship 6 has received permission
+Ship 6 entered the port and is now IN_PORT
+Ship 5 has received permission
+Ship 5 entered the port and is now IN_PORT
+Ship 4 has received permission
+Ship 4 entered the port and is now IN_PORT
+Ship 4 is leaving berth
+Current containers in Port: 10
+Ship 6 is leaving berth
+Current containers in Port: 10
+Ship 5 is leaving berth
+Current containers in Port: 10
+Ship 7 is leaving berth
+Current containers in Port: 10
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 0 entered the port and is now IN_PORT
+Ship 3 entered the port and is now IN_PORT
+Ship 2 has received permission
+Ship 1 has received permission
+Ship 2 entered the port and is now IN_PORT
+Ship 1 entered the port and is now IN_PORT
+Ship 2 is leaving berth
+Current containers in Port: 46
+Ship 1 is leaving berth
+Current containers in Port: 46
+Ship 3 is leaving berth
+Current containers in Port: 46
+Ship 0 is leaving berth
+Current containers in Port: 46
+Ship 7 has received permission
+Ship 7 entered the port and is now IN_PORT
+Ship 6 has received permission
+Ship 6 entered the port and is now IN_PORT
+Ship 5 has received permission
+Ship 5 entered the port and is now IN_PORT
+Ship 4 has received permission
+Ship 4 entered the port and is now IN_PORT
+Ship 4 is leaving berth
+Current containers in Port: 50
+Ship 6 is leaving berth
+Current containers in Port: 50
+Ship 7 is leaving berth
+Current containers in Port: 50
+Ship 5 is leaving berth
+Current containers in Port: 50
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 2 has received permission
+Ship 1 has received permission
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 2 has received permission
+Ship 1 has received permission
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 2 has received permission
+Ship 1 has received permission
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 2 is leaving berth
+Current containers in Port: 0
+Ship 1 is leaving berth
+Current containers in Port: 0
+Ship 3 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 0 is leaving berth
+Current containers in Port: 0
+Ship 0 has received permission
+Ship 7 has received permission
+Ship 6 has received permission
+Ship 5 has received permission
+Ship 0 is leaving berth
+Current containers in Port: 89
+Ship 0 has received permission
+Ship 6 is leaving berth
+Current containers in Port: 85
+Ship 7 is leaving berth
+Current containers in Port: 85
+Ship 4 has received permission
+Ship 0 is leaving berth
+Current containers in Port: 92
+Ship 5 is leaving berth
+Current containers in Port: 116
+Ship 4 is leaving berth
+Current containers in Port: 116
+Ship 0 has received permission
+Ship 3 has received permission
+Ship 2 has received permission
+Ship 1 has received permission
+Ship 2 is leaving berth
+Current containers in Port: 20
+Ship 3 is leaving berth
+Current containers in Port: 20
+Ship 1 is leaving berth
+Current containers in Port: 20
+Ship 0 is leaving berth
+Current containers in Port: 20
+Ship 7 has received permission
+Ship 6 has received permission
+Ship 6 is leaving berth
+Current containers in Port: 51
+Ship 5 has received permission
+Ship 4 has received permission
+Ship 4 is leaving berth
+Current containers in Port: 140
+Ship 7 is leaving berth
+Current containers in Port: 140
+Ship 5 is leaving berth
+Current containers in Port: 140
+Starting port simulation
+Port config loaded: berths=4, capacity=1000, initial=100
+Loaded 8 ship configurations
+Port initialized: 4 berths, capacity: 1000, current containers: 100
+Ship Ship 0 created: take=20, leave=0
+Ship Ship 1 created: take=20, leave=0
+Ship 0 started
+Ship Ship 2 created: take=20, leave=0
+Ship 0 has received permission to dock. Available berths: 3
+Ship 1 started
+Ship 0 loaded 1 container. Remaining to load: 19
+Ship Ship 3 created: take=20, leave=0
+Ship 1 has received permission to dock. Available berths: 2
+Ship 1 loaded 1 container. Remaining to load: 19
+Ship Ship 4 created: take=0, leave=30
+Ship 2 started
+Ship 2 has received permission to dock. Available berths: 1
+Ship Ship 5 created: take=0, leave=30
+Ship 2 loaded 1 container. Remaining to load: 19
+Ship 4 started
+Ship Ship 6 created: take=0, leave=30
+Ship 4 has received permission to dock. Available berths: 0
+Ship 4 unloaded 1 container. Remaining to unload: 29
+Ship Ship 7 created: take=0, leave=30
+Ship 3 started
+Created 8 ships
+Ship 5 started
+Ship 6 started
+Ship 7 started
+Ship 4 unloaded 1 container. Remaining to unload: 28
+Ship 2 loaded 1 container. Remaining to load: 18
+Ship 1 loaded 1 container. Remaining to load: 18
+Ship 0 loaded 1 container. Remaining to load: 18
+Ship 4 unloaded 1 container. Remaining to unload: 27
+Ship 2 loaded 1 container. Remaining to load: 17
+Ship 0 loaded 1 container. Remaining to load: 17
+Ship 1 loaded 1 container. Remaining to load: 17
+Ship 4 unloaded 1 container. Remaining to unload: 26
+Ship 1 loaded 1 container. Remaining to load: 16
+Ship 2 loaded 1 container. Remaining to load: 16
+Ship 0 loaded 1 container. Remaining to load: 16
+Ship 4 unloaded 1 container. Remaining to unload: 25
+Ship 2 loaded 1 container. Remaining to load: 15
+Ship 0 loaded 1 container. Remaining to load: 15
+Ship 1 loaded 1 container. Remaining to load: 15
+Ship 4 unloaded 1 container. Remaining to unload: 24
+Ship 1 loaded 1 container. Remaining to load: 14
+Ship 0 loaded 1 container. Remaining to load: 14
+Ship 2 loaded 1 container. Remaining to load: 14
+Ship 4 unloaded 1 container. Remaining to unload: 23
+Ship 0 loaded 1 container. Remaining to load: 13
+Ship 2 loaded 1 container. Remaining to load: 13
+Ship 1 loaded 1 container. Remaining to load: 13
+Ship 4 unloaded 1 container. Remaining to unload: 22
+Ship 2 loaded 1 container. Remaining to load: 12
+Ship 0 loaded 1 container. Remaining to load: 12
+Ship 1 loaded 1 container. Remaining to load: 12
+Ship 4 unloaded 1 container. Remaining to unload: 21
+Ship 0 loaded 1 container. Remaining to load: 11
+Ship 2 loaded 1 container. Remaining to load: 11
+Ship 1 loaded 1 container. Remaining to load: 11
+Ship 4 unloaded 1 container. Remaining to unload: 20
+Ship 1 loaded 1 container. Remaining to load: 10
+Ship 0 loaded 1 container. Remaining to load: 10
+Ship 2 loaded 1 container. Remaining to load: 10
+Ship 4 unloaded 1 container. Remaining to unload: 19
+Ship 0 loaded 1 container. Remaining to load: 9
+Ship 2 loaded 1 container. Remaining to load: 9
+Ship 1 loaded 1 container. Remaining to load: 9
+Ship 4 unloaded 1 container. Remaining to unload: 18
+Ship 0 loaded 1 container. Remaining to load: 8
+Ship 2 loaded 1 container. Remaining to load: 8
+Ship 1 loaded 1 container. Remaining to load: 8
+Ship 4 unloaded 1 container. Remaining to unload: 17
+Ship 0 loaded 1 container. Remaining to load: 7
+Ship 2 loaded 1 container. Remaining to load: 7
+Ship 1 loaded 1 container. Remaining to load: 7
+Ship 4 unloaded 1 container. Remaining to unload: 16
+Ship 0 loaded 1 container. Remaining to load: 6
+Ship 2 loaded 1 container. Remaining to load: 6
+Ship 1 loaded 1 container. Remaining to load: 6
+Ship 0 loaded 1 container. Remaining to load: 5
+Ship 4 unloaded 1 container. Remaining to unload: 15
+Ship 1 loaded 1 container. Remaining to load: 5
+Ship 2 loaded 1 container. Remaining to load: 5
+Ship 4 unloaded 1 container. Remaining to unload: 14
+Ship 0 loaded 1 container. Remaining to load: 4
+Ship 1 loaded 1 container. Remaining to load: 4
+Ship 2 loaded 1 container. Remaining to load: 4
+Ship 0 loaded 1 container. Remaining to load: 3
+Ship 4 unloaded 1 container. Remaining to unload: 13
+Ship 2 loaded 1 container. Remaining to load: 3
+Ship 1 loaded 1 container. Remaining to load: 3
+Ship 0 loaded 1 container. Remaining to load: 2
+Ship 4 unloaded 1 container. Remaining to unload: 12
+Ship 1 loaded 1 container. Remaining to load: 2
+Ship 2 loaded 1 container. Remaining to load: 2
+Ship 0 loaded 1 container. Remaining to load: 1
+Ship 4 unloaded 1 container. Remaining to unload: 11
+Ship 2 loaded 1 container. Remaining to load: 1
+Ship 1 loaded 1 container. Remaining to load: 1
+Ship 0 loaded 1 container. Remaining to load: 0
+Ship 4 unloaded 1 container. Remaining to unload: 10
+Ship 1 loaded 1 container. Remaining to load: 0
+Ship 2 loaded 1 container. Remaining to load: 0
+Ship 0 has finished all tasks
+Ship 1 has finished all tasks
+Ship 2 has finished all tasks
+Ship 0 is leaving berth
+Current containers in Port: 60/1000
+Ship 4 unloaded 1 container. Remaining to unload: 9
+Ship 1 is leaving berth
+Current containers in Port: 61/1000
+Ship 2 is leaving berth
+Current containers in Port: 61/1000
+Ship 3 has received permission to dock. Available berths: 2
+Ship 5 has received permission to dock. Available berths: 1
+Ship 3 loaded 1 container. Remaining to load: 19
+Ship 5 unloaded 1 container. Remaining to unload: 29
+Ship 6 has received permission to dock. Available berths: 0
+Ship 6 unloaded 1 container. Remaining to unload: 29
+Ship 4 unloaded 1 container. Remaining to unload: 8
+Ship 3 loaded 1 container. Remaining to load: 18
+Ship 5 unloaded 1 container. Remaining to unload: 28
+Ship 6 unloaded 1 container. Remaining to unload: 28
+Ship 4 unloaded 1 container. Remaining to unload: 7
+Ship 4 unloaded 1 container. Remaining to unload: 6
+Ship 5 unloaded 1 container. Remaining to unload: 27
+Ship 6 unloaded 1 container. Remaining to unload: 27
+Ship 3 loaded 1 container. Remaining to load: 17
+Ship 4 unloaded 1 container. Remaining to unload: 5
+Ship 5 unloaded 1 container. Remaining to unload: 26
+Ship 3 loaded 1 container. Remaining to load: 16
+Ship 6 unloaded 1 container. Remaining to unload: 26
+Ship 3 loaded 1 container. Remaining to load: 15
+Ship 6 unloaded 1 container. Remaining to unload: 25
+Ship 4 unloaded 1 container. Remaining to unload: 4
+Ship 5 unloaded 1 container. Remaining to unload: 25
+Ship 5 unloaded 1 container. Remaining to unload: 24
+Ship 4 unloaded 1 container. Remaining to unload: 3
+Ship 6 unloaded 1 container. Remaining to unload: 24
+Ship 3 loaded 1 container. Remaining to load: 14
+Ship 6 unloaded 1 container. Remaining to unload: 23
+Ship 4 unloaded 1 container. Remaining to unload: 2
+Ship 5 unloaded 1 container. Remaining to unload: 23
+Ship 3 loaded 1 container. Remaining to load: 13
+Ship 3 loaded 1 container. Remaining to load: 12
+Ship 5 unloaded 1 container. Remaining to unload: 22
+Ship 4 unloaded 1 container. Remaining to unload: 1
+Ship 6 unloaded 1 container. Remaining to unload: 22
+Ship 3 loaded 1 container. Remaining to load: 11
+Ship 4 unloaded 1 container. Remaining to unload: 0
+Ship 5 unloaded 1 container. Remaining to unload: 21
+Ship 6 unloaded 1 container. Remaining to unload: 21
+Ship 4 has finished all tasks
+Ship 4 is leaving berth
+Current containers in Port: 79/1000
+Ship 3 loaded 1 container. Remaining to load: 10
+Ship 6 unloaded 1 container. Remaining to unload: 20
+Ship 5 unloaded 1 container. Remaining to unload: 20
+Ship 7 has received permission to dock. Available berths: 0
+Ship 7 unloaded 1 container. Remaining to unload: 29
+Ship 5 unloaded 1 container. Remaining to unload: 19
+Ship 3 loaded 1 container. Remaining to load: 9
+Ship 7 unloaded 1 container. Remaining to unload: 28
+Ship 6 unloaded 1 container. Remaining to unload: 19
+Ship 6 unloaded 1 container. Remaining to unload: 18
+Ship 7 unloaded 1 container. Remaining to unload: 27
+Ship 5 unloaded 1 container. Remaining to unload: 18
+Ship 3 loaded 1 container. Remaining to load: 8
+Ship 7 unloaded 1 container. Remaining to unload: 26
+Ship 6 unloaded 1 container. Remaining to unload: 17
+Ship 5 unloaded 1 container. Remaining to unload: 17
+Ship 3 loaded 1 container. Remaining to load: 7
+Ship 6 unloaded 1 container. Remaining to unload: 16
+Ship 7 unloaded 1 container. Remaining to unload: 25
+Ship 5 unloaded 1 container. Remaining to unload: 16
+Ship 3 loaded 1 container. Remaining to load: 6
+Ship 6 unloaded 1 container. Remaining to unload: 15
+Ship 7 unloaded 1 container. Remaining to unload: 24
+Ship 3 loaded 1 container. Remaining to load: 5
+Ship 5 unloaded 1 container. Remaining to unload: 15
+Ship 7 unloaded 1 container. Remaining to unload: 23
+Ship 6 unloaded 1 container. Remaining to unload: 14
+Ship 3 loaded 1 container. Remaining to load: 4
+Ship 5 unloaded 1 container. Remaining to unload: 14
+Ship 7 unloaded 1 container. Remaining to unload: 22
+Ship 6 unloaded 1 container. Remaining to unload: 13
+Ship 5 unloaded 1 container. Remaining to unload: 13
+Ship 3 loaded 1 container. Remaining to load: 3
+Ship 6 unloaded 1 container. Remaining to unload: 12
+Ship 7 unloaded 1 container. Remaining to unload: 21
+Ship 3 loaded 1 container. Remaining to load: 2
+Ship 5 unloaded 1 container. Remaining to unload: 12
+Ship 6 unloaded 1 container. Remaining to unload: 11
+Ship 7 unloaded 1 container. Remaining to unload: 20
+Ship 3 loaded 1 container. Remaining to load: 1
+Ship 5 unloaded 1 container. Remaining to unload: 11
+Ship 3 loaded 1 container. Remaining to load: 0
+Ship 6 unloaded 1 container. Remaining to unload: 10
+Ship 7 unloaded 1 container. Remaining to unload: 19
+Ship 5 unloaded 1 container. Remaining to unload: 10
+Ship 3 has finished all tasks
+Ship 3 is leaving berth
+Current containers in Port: 101/1000
+Ship 7 unloaded 1 container. Remaining to unload: 18
+Ship 6 unloaded 1 container. Remaining to unload: 9
+Ship 5 unloaded 1 container. Remaining to unload: 9
+Ship 6 unloaded 1 container. Remaining to unload: 8
+Ship 5 unloaded 1 container. Remaining to unload: 8
+Ship 7 unloaded 1 container. Remaining to unload: 17
+Ship 7 unloaded 1 container. Remaining to unload: 16
+Ship 6 unloaded 1 container. Remaining to unload: 7
+Ship 5 unloaded 1 container. Remaining to unload: 7
+Ship 7 unloaded 1 container. Remaining to unload: 15
+Ship 5 unloaded 1 container. Remaining to unload: 6
+Ship 6 unloaded 1 container. Remaining to unload: 6
+Ship 5 unloaded 1 container. Remaining to unload: 5
+Ship 6 unloaded 1 container. Remaining to unload: 5
+Ship 7 unloaded 1 container. Remaining to unload: 14
+Ship 5 unloaded 1 container. Remaining to unload: 4
+Ship 7 unloaded 1 container. Remaining to unload: 13
+Ship 6 unloaded 1 container. Remaining to unload: 4
+Ship 5 unloaded 1 container. Remaining to unload: 3
+Ship 6 unloaded 1 container. Remaining to unload: 3
+Ship 7 unloaded 1 container. Remaining to unload: 12
+Ship 5 unloaded 1 container. Remaining to unload: 2
+Ship 6 unloaded 1 container. Remaining to unload: 2
+Ship 7 unloaded 1 container. Remaining to unload: 11
+Ship 5 unloaded 1 container. Remaining to unload: 1
+Ship 7 unloaded 1 container. Remaining to unload: 10
+Ship 6 unloaded 1 container. Remaining to unload: 1
+Ship 5 unloaded 1 container. Remaining to unload: 0
+Ship 6 unloaded 1 container. Remaining to unload: 0
+Ship 7 unloaded 1 container. Remaining to unload: 9
+Ship 5 has finished all tasks
+Ship 6 has finished all tasks
+Ship 5 is leaving berth
+Current containers in Port: 131/1000
+Ship 7 unloaded 1 container. Remaining to unload: 8
+Ship 6 is leaving berth
+Current containers in Port: 132/1000
+Ship 7 unloaded 1 container. Remaining to unload: 7
+Ship 7 unloaded 1 container. Remaining to unload: 6
+Ship 7 unloaded 1 container. Remaining to unload: 5
+Ship 7 unloaded 1 container. Remaining to unload: 4
+Ship 7 unloaded 1 container. Remaining to unload: 3
+Ship 7 unloaded 1 container. Remaining to unload: 2
+Ship 7 unloaded 1 container. Remaining to unload: 1
+Ship 7 unloaded 1 container. Remaining to unload: 0
+Ship 7 has finished all tasks
+Ship 7 is leaving berth
+Current containers in Port: 140/1000
+All ships have finished their tasks
+Starting port simulation
+Port config loaded: berths=4, capacity=1000, initial=100
+Loaded 8 ship configurations
+Port initialized: 4 berths, capacity: 1000, current containers: 100
+Ship Ship 0 created: take=20, leave=0
+Ship Ship 1 created: take=20, leave=0
+Ship 0 started
+Ship Ship 2 created: take=20, leave=0
+Ship 0 has received permission to dock. Available berths: 3
+Ship 1 started
+Ship Ship 3 created: take=20, leave=0
+Ship 0 loaded 1 container. Remaining to load: 19
+Ship 1 has received permission to dock. Available berths: 2
+Ship 1 loaded 1 container. Remaining to load: 19
+Ship Ship 4 created: take=0, leave=30
+Ship 3 started
+Ship 2 started
+Ship 3 has received permission to dock. Available berths: 1
+Ship Ship 5 created: take=0, leave=30
+Ship 3 loaded 1 container. Remaining to load: 19
+Ship Ship 6 created: take=0, leave=30
+Ship 2 has received permission to dock. Available berths: 0
+Ship 4 started
+Ship 2 loaded 1 container. Remaining to load: 19
+Ship Ship 7 created: take=0, leave=30
+Created 8 ships
+Ship 5 started
+Ship 6 started
+Ship 7 started
+Ship 1 loaded 1 container. Remaining to load: 18
+Ship 0 loaded 1 container. Remaining to load: 18
+Ship 2 loaded 1 container. Remaining to load: 18
+Ship 3 loaded 1 container. Remaining to load: 18
+Ship 2 loaded 1 container. Remaining to load: 17
+Ship 1 loaded 1 container. Remaining to load: 17
+Ship 0 loaded 1 container. Remaining to load: 17
+Ship 3 loaded 1 container. Remaining to load: 17
+Ship 0 loaded 1 container. Remaining to load: 16
+Ship 1 loaded 1 container. Remaining to load: 16
+Ship 3 loaded 1 container. Remaining to load: 16
+Ship 2 loaded 1 container. Remaining to load: 16
+Ship 0 loaded 1 container. Remaining to load: 15
+Ship 1 loaded 1 container. Remaining to load: 15
+Ship 3 loaded 1 container. Remaining to load: 15
+Ship 2 loaded 1 container. Remaining to load: 15
+Ship 0 loaded 1 container. Remaining to load: 14
+Ship 3 loaded 1 container. Remaining to load: 14
+Ship 2 loaded 1 container. Remaining to load: 14
+Ship 1 loaded 1 container. Remaining to load: 14
+Ship 0 loaded 1 container. Remaining to load: 13
+Ship 3 loaded 1 container. Remaining to load: 13
+Ship 1 loaded 1 container. Remaining to load: 13
+Ship 2 loaded 1 container. Remaining to load: 13
+Ship 3 loaded 1 container. Remaining to load: 12
+Ship 0 loaded 1 container. Remaining to load: 12
+Ship 1 loaded 1 container. Remaining to load: 12
+Ship 2 loaded 1 container. Remaining to load: 12
+Ship 3 loaded 1 container. Remaining to load: 11
+Ship 0 loaded 1 container. Remaining to load: 11
+Ship 1 loaded 1 container. Remaining to load: 11
+Ship 2 loaded 1 container. Remaining to load: 11
+Ship 0 loaded 1 container. Remaining to load: 10
+Ship 3 loaded 1 container. Remaining to load: 10
+Ship 2 loaded 1 container. Remaining to load: 10
+Ship 1 loaded 1 container. Remaining to load: 10
+Ship 3 loaded 1 container. Remaining to load: 9
+Ship 0 loaded 1 container. Remaining to load: 9
+Ship 1 loaded 1 container. Remaining to load: 9
+Ship 2 loaded 1 container. Remaining to load: 9
+Ship 3 loaded 1 container. Remaining to load: 8
+Ship 0 loaded 1 container. Remaining to load: 8
+Ship 2 loaded 1 container. Remaining to load: 8
+Ship 1 loaded 1 container. Remaining to load: 8
+Ship 3 loaded 1 container. Remaining to load: 7
+Ship 0 loaded 1 container. Remaining to load: 7
+Ship 1 loaded 1 container. Remaining to load: 7
+Ship 2 loaded 1 container. Remaining to load: 7
+Ship 3 loaded 1 container. Remaining to load: 6
+Ship 0 loaded 1 container. Remaining to load: 6
+Ship 2 loaded 1 container. Remaining to load: 6
+Ship 1 loaded 1 container. Remaining to load: 6
+Ship 3 loaded 1 container. Remaining to load: 5
+Ship 0 loaded 1 container. Remaining to load: 5
+Ship 1 loaded 1 container. Remaining to load: 5
+Ship 2 loaded 1 container. Remaining to load: 5
+Ship 0 loaded 1 container. Remaining to load: 4
+Ship 3 loaded 1 container. Remaining to load: 4
+Ship 1 loaded 1 container. Remaining to load: 4
+Ship 2 loaded 1 container. Remaining to load: 4
+Ship 3 loaded 1 container. Remaining to load: 3
+Ship 0 loaded 1 container. Remaining to load: 3
+Ship 1 loaded 1 container. Remaining to load: 3
+Ship 2 loaded 1 container. Remaining to load: 3
+Ship 0 loaded 1 container. Remaining to load: 2
+Ship 3 loaded 1 container. Remaining to load: 2
+Ship 2 loaded 1 container. Remaining to load: 2
+Ship 1 loaded 1 container. Remaining to load: 2
+Ship 0 loaded 1 container. Remaining to load: 1
+Ship 3 loaded 1 container. Remaining to load: 1
+Ship 2 loaded 1 container. Remaining to load: 1
+Ship 1 loaded 1 container. Remaining to load: 1
+Ship 0 loaded 1 container. Remaining to load: 0
+Ship 3 loaded 1 container. Remaining to load: 0
+Ship 1 loaded 1 container. Remaining to load: 0
+Ship 2 loaded 1 container. Remaining to load: 0
+Ship 0 has finished all tasks
+Ship 3 has finished all tasks
+Ship 2 has finished all tasks
+Ship 1 has finished all tasks
+Ship 0 is leaving berth
+Current containers in Port: 20/1000
+Ship 3 is leaving berth
+Current containers in Port: 20/1000
+Ship 1 is leaving berth
+Current containers in Port: 20/1000
+Ship 2 is leaving berth
+Current containers in Port: 20/1000
+Ship 4 has received permission to dock. Available berths: 3
+Ship 5 has received permission to dock. Available berths: 2
+Ship 6 has received permission to dock. Available berths: 1
+Ship 5 unloaded 1 container. Remaining to unload: 29
+Ship 6 unloaded 1 container. Remaining to unload: 29
+Ship 7 has received permission to dock. Available berths: 0
+Ship 7 unloaded 1 container. Remaining to unload: 29
+Ship 4 unloaded 1 container. Remaining to unload: 29
+Ship 5 unloaded 1 container. Remaining to unload: 28
+Ship 7 unloaded 1 container. Remaining to unload: 28
+Ship 6 unloaded 1 container. Remaining to unload: 28
+Ship 4 unloaded 1 container. Remaining to unload: 28
+Ship 5 unloaded 1 container. Remaining to unload: 27
+Ship 4 unloaded 1 container. Remaining to unload: 27
+Ship 6 unloaded 1 container. Remaining to unload: 27
+Ship 7 unloaded 1 container. Remaining to unload: 27
+Ship 5 unloaded 1 container. Remaining to unload: 26
+Ship 4 unloaded 1 container. Remaining to unload: 26
+Ship 6 unloaded 1 container. Remaining to unload: 26
+Ship 7 unloaded 1 container. Remaining to unload: 26
+Ship 5 unloaded 1 container. Remaining to unload: 25
+Ship 4 unloaded 1 container. Remaining to unload: 25
+Ship 7 unloaded 1 container. Remaining to unload: 25
+Ship 6 unloaded 1 container. Remaining to unload: 25
+Ship 4 unloaded 1 container. Remaining to unload: 24
+Ship 5 unloaded 1 container. Remaining to unload: 24
+Ship 7 unloaded 1 container. Remaining to unload: 24
+Ship 6 unloaded 1 container. Remaining to unload: 24
+Ship 5 unloaded 1 container. Remaining to unload: 23
+Ship 4 unloaded 1 container. Remaining to unload: 23
+Ship 7 unloaded 1 container. Remaining to unload: 23
+Ship 6 unloaded 1 container. Remaining to unload: 23
+Ship 5 unloaded 1 container. Remaining to unload: 22
+Ship 4 unloaded 1 container. Remaining to unload: 22
+Ship 7 unloaded 1 container. Remaining to unload: 22
+Ship 6 unloaded 1 container. Remaining to unload: 22
+Ship 5 unloaded 1 container. Remaining to unload: 21
+Ship 4 unloaded 1 container. Remaining to unload: 21
+Ship 6 unloaded 1 container. Remaining to unload: 21
+Ship 7 unloaded 1 container. Remaining to unload: 21
+Ship 5 unloaded 1 container. Remaining to unload: 20
+Ship 4 unloaded 1 container. Remaining to unload: 20
+Ship 6 unloaded 1 container. Remaining to unload: 20
+Ship 7 unloaded 1 container. Remaining to unload: 20
+Ship 5 unloaded 1 container. Remaining to unload: 19
+Ship 4 unloaded 1 container. Remaining to unload: 19
+Ship 7 unloaded 1 container. Remaining to unload: 19
+Ship 6 unloaded 1 container. Remaining to unload: 19
+Ship 5 unloaded 1 container. Remaining to unload: 18
+Ship 4 unloaded 1 container. Remaining to unload: 18
+Ship 6 unloaded 1 container. Remaining to unload: 18
+Ship 7 unloaded 1 container. Remaining to unload: 18
+Ship 5 unloaded 1 container. Remaining to unload: 17
+Ship 4 unloaded 1 container. Remaining to unload: 17
+Ship 7 unloaded 1 container. Remaining to unload: 17
+Ship 6 unloaded 1 container. Remaining to unload: 17
+Ship 5 unloaded 1 container. Remaining to unload: 16
+Ship 4 unloaded 1 container. Remaining to unload: 16
+Ship 6 unloaded 1 container. Remaining to unload: 16
+Ship 7 unloaded 1 container. Remaining to unload: 16
+Ship 5 unloaded 1 container. Remaining to unload: 15
+Ship 4 unloaded 1 container. Remaining to unload: 15
+Ship 7 unloaded 1 container. Remaining to unload: 15
+Ship 6 unloaded 1 container. Remaining to unload: 15
+Ship 5 unloaded 1 container. Remaining to unload: 14
+Ship 4 unloaded 1 container. Remaining to unload: 14
+Ship 6 unloaded 1 container. Remaining to unload: 14
+Ship 7 unloaded 1 container. Remaining to unload: 14
+Ship 5 unloaded 1 container. Remaining to unload: 13
+Ship 4 unloaded 1 container. Remaining to unload: 13
+Ship 6 unloaded 1 container. Remaining to unload: 13
+Ship 7 unloaded 1 container. Remaining to unload: 13
+Ship 5 unloaded 1 container. Remaining to unload: 12
+Ship 4 unloaded 1 container. Remaining to unload: 12
+Ship 7 unloaded 1 container. Remaining to unload: 12
+Ship 6 unloaded 1 container. Remaining to unload: 12
+Ship 5 unloaded 1 container. Remaining to unload: 11
+Ship 4 unloaded 1 container. Remaining to unload: 11
+Ship 6 unloaded 1 container. Remaining to unload: 11
+Ship 7 unloaded 1 container. Remaining to unload: 11
+Ship 5 unloaded 1 container. Remaining to unload: 10
+Ship 4 unloaded 1 container. Remaining to unload: 10
+Ship 6 unloaded 1 container. Remaining to unload: 10
+Ship 7 unloaded 1 container. Remaining to unload: 10
+Ship 5 unloaded 1 container. Remaining to unload: 9
+Ship 4 unloaded 1 container. Remaining to unload: 9
+Ship 7 unloaded 1 container. Remaining to unload: 9
+Ship 6 unloaded 1 container. Remaining to unload: 9
+Ship 5 unloaded 1 container. Remaining to unload: 8
+Ship 4 unloaded 1 container. Remaining to unload: 8
+Ship 7 unloaded 1 container. Remaining to unload: 8
+Ship 6 unloaded 1 container. Remaining to unload: 8
+Ship 5 unloaded 1 container. Remaining to unload: 7
+Ship 4 unloaded 1 container. Remaining to unload: 7
+Ship 7 unloaded 1 container. Remaining to unload: 7
+Ship 6 unloaded 1 container. Remaining to unload: 7
+Ship 5 unloaded 1 container. Remaining to unload: 6
+Ship 4 unloaded 1 container. Remaining to unload: 6
+Ship 6 unloaded 1 container. Remaining to unload: 6
+Ship 7 unloaded 1 container. Remaining to unload: 6
+Ship 5 unloaded 1 container. Remaining to unload: 5
+Ship 4 unloaded 1 container. Remaining to unload: 5
+Ship 7 unloaded 1 container. Remaining to unload: 5
+Ship 6 unloaded 1 container. Remaining to unload: 5
+Ship 5 unloaded 1 container. Remaining to unload: 4
+Ship 4 unloaded 1 container. Remaining to unload: 4
+Ship 7 unloaded 1 container. Remaining to unload: 4
+Ship 6 unloaded 1 container. Remaining to unload: 4
+Ship 5 unloaded 1 container. Remaining to unload: 3
+Ship 4 unloaded 1 container. Remaining to unload: 3
+Ship 7 unloaded 1 container. Remaining to unload: 3
+Ship 6 unloaded 1 container. Remaining to unload: 3
+Ship 5 unloaded 1 container. Remaining to unload: 2
+Ship 4 unloaded 1 container. Remaining to unload: 2
+Ship 6 unloaded 1 container. Remaining to unload: 2
+Ship 7 unloaded 1 container. Remaining to unload: 2
+Ship 5 unloaded 1 container. Remaining to unload: 1
+Ship 4 unloaded 1 container. Remaining to unload: 1
+Ship 7 unloaded 1 container. Remaining to unload: 1
+Ship 6 unloaded 1 container. Remaining to unload: 1
+Ship 5 unloaded 1 container. Remaining to unload: 0
+Ship 4 unloaded 1 container. Remaining to unload: 0
+Ship 6 unloaded 1 container. Remaining to unload: 0
+Ship 7 unloaded 1 container. Remaining to unload: 0
+Ship 5 has finished all tasks
+Ship 4 has finished all tasks
+Ship 6 has finished all tasks
+Ship 7 has finished all tasks
+Ship 5 is leaving berth
+Current containers in Port: 140/1000
+Ship 4 is leaving berth
+Current containers in Port: 140/1000
+Ship 6 is leaving berth
+Current containers in Port: 140/1000
+Ship 7 is leaving berth
+Current containers in Port: 140/1000
+All ships have finished their tasks
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[Ship 1] Ship 1 started
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 4 created: take=0, leave=30
+[main] Ship Ship 5 created: take=0, leave=30
+[Ship 3] Ship 3 started
+[Ship 4] Ship 4 started
+[Ship 2] Ship 2 started
+[Ship 3] Ship 3 has received permission to dock. Available berths: 1
+[main] Ship Ship 6 created: take=0, leave=30
+[Ship 2] Ship 2 has received permission to dock. Available berths: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 7 created: take=0, leave=30
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[main] Created 8 ships
+[Ship 7] Ship 7 started
+[Ship 6] Ship 6 started
+[Ship 5] Ship 5 started
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 14
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 14
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 14
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 14
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 13
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 13
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 12
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 12
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 12
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 12
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 11
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 11
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 11
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 11
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 10
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 10
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 10
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 10
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 9
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 9
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 9
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 8
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 8
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 8
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 7
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 7
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 7
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 6
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 6
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 6
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 6
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 5
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 5
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 5
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 4
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 4
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 4
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 4
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 3
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 2
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 0
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 0
+[Ship 0] Ship 0 has finished all tasks
+[Ship 2] Ship 2 has finished all tasks
+[Ship 1] Ship 1 has finished all tasks
+[Ship 3] Ship 3 has finished all tasks
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 20/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 20/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 20/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 20/1000
+[Ship 7] Ship 7 has received permission to dock. Available berths: 3
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 29
+[Ship 5] Ship 5 has received permission to dock. Available berths: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 29
+[Ship 4] Ship 4 has received permission to dock. Available berths: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 29
+[Ship 6] Ship 6 has received permission to dock. Available berths: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 29
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 28
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 28
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 28
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 28
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 27
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 27
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 27
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 27
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 26
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 26
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 26
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 26
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 25
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 25
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 25
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 25
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 24
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 24
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 24
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 24
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 23
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 23
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 23
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 23
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 22
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 22
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 22
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 22
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 21
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 21
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 21
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 21
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 20
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 20
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 20
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 20
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 15
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 15
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 15
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 14
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 14
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 14
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 13
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 13
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 13
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 12
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 12
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 12
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 11
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 11
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 11
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 10
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 10
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 10
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 10
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 9
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 9
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 9
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 8
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 8
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 8
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 7
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 7
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 6
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 6
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 6
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 5
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 5
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 4
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 3
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 1
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 0
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 0
+[Ship 4] Ship 4 has finished all tasks
+[Ship 6] Ship 6 has finished all tasks
+[Ship 7] Ship 7 has finished all tasks
+[Ship 5] Ship 5 has finished all tasks
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 140/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 140/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 140/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 140/1000
+[main] All ships have finished their tasks
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[Ship 1] Ship 1 started
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 4 created: take=0, leave=30
+[Ship 3] Ship 3 started
+[Ship 2] Ship 2 started
+[main] Ship Ship 5 created: take=0, leave=30
+[Ship 3] Ship 3 has received permission to dock. Available berths: 1
+[Ship 4] Ship 4 started
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[Ship 2] Ship 2 has received permission to dock. Available berths: 0
+[main] Ship Ship 6 created: take=0, leave=30
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 7 created: take=0, leave=30
+[Ship 6] Ship 6 started
+[main] Created 8 ships
+[Ship 5] Ship 5 started
+[Ship 7] Ship 7 started
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 14
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 14
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 14
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 14
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 13
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 13
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 13
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 12
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 12
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 12
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 12
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 11
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 11
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 11
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 11
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 10
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 10
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 10
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 10
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 9
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 9
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 9
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 8
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 8
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 8
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 7
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 7
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 6
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 6
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 6
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 6
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 5
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 5
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 4
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 4
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 4
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 4
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 3
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 2
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 0
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 has finished all tasks
+[Ship 3] Ship 3 has finished all tasks
+[Ship 0] Ship 0 has finished all tasks
+[Ship 2] Ship 2 has finished all tasks
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 20/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 20/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 20/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 20/1000
+[Ship 4] Ship 4 has received permission to dock. Available berths: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 29
+[Ship 6] Ship 6 has received permission to dock. Available berths: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 29
+[Ship 5] Ship 5 has received permission to dock. Available berths: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 29
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 29
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 28
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 28
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 28
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 28
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 27
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 27
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 27
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 27
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 26
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 26
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 26
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 26
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 25
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 25
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 25
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 25
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 24
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 24
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 24
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 24
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 23
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 23
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 23
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 23
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 22
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 22
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 22
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 22
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 21
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 21
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 21
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 21
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 20
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 20
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 20
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 20
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 15
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 15
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 15
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 14
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 14
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 14
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 13
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 13
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 13
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 12
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 12
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 12
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 11
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 11
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 11
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 10
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 10
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 10
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 10
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 9
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 9
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 9
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 8
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 8
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 8
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 7
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 7
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 6
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 6
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 6
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 5
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 5
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 4
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 4
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 3
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 1
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 0
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 0
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 0
+[Ship 6] Ship 6 has finished all tasks
+[Ship 5] Ship 5 has finished all tasks
+[Ship 4] Ship 4 has finished all tasks
+[Ship 7] Ship 7 has finished all tasks
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 140/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 140/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 140/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 140/1000
+[main] All ships have finished their tasks
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[Ship 1] Ship 1 started
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[Ship 2] Ship 2 started
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 4 created: take=0, leave=20
+[Ship 2] Ship 2 has received permission to dock. Available berths: 1
+[Ship 3] Ship 3 started
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[Ship 3] Ship 3 has received permission to dock. Available berths: 0
+[main] Ship Ship 5 created: take=0, leave=20
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 6 created: take=0, leave=20
+[Ship 4] Ship 4 started
+[Ship 5] Ship 5 started
+[main] Ship Ship 7 created: take=0, leave=20
+[Ship 6] Ship 6 started
+[main] Created 8 ships
+[Ship 7] Ship 7 started
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 14
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 14
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 14
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 14
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 13
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 13
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 13
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 12
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 12
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 12
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 12
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 11
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 11
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 11
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 11
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 10
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 10
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 10
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 10
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 9
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 9
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 8
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 8
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 7
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 7
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 7
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 6
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 6
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 6
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 6
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 5
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 5
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 5
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 4
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 4
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 4
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 4
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 3
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 0
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 0
+[Ship 3] Ship 3 has finished all tasks
+[Ship 2] Ship 2 has finished all tasks
+[Ship 0] Ship 0 has finished all tasks
+[Ship 1] Ship 1 has finished all tasks
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 20/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 20/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 20/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 20/1000
+[Ship 4] Ship 4 has received permission to dock. Available berths: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 has received permission to dock. Available berths: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 has received permission to dock. Available berths: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 15
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 15
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 15
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 14
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 14
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 14
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 13
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 13
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 13
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 12
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 12
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 12
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 11
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 11
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 11
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 10
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 10
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 10
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 10
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 9
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 9
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 9
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 8
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 8
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 8
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 7
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 6
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 6
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 6
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 5
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 5
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 4
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 1
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 0
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 0
+[Ship 5] Ship 5 has finished all tasks
+[Ship 7] Ship 7 has finished all tasks
+[Ship 6] Ship 6 has finished all tasks
+[Ship 4] Ship 4 has finished all tasks
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[main] All ships have finished their tasks
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[Ship 1] Ship 1 started
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[Ship 3] Ship 3 started
+[main] Ship Ship 4 created: take=0, leave=20
+[Ship 2] Ship 2 started
+[main] Ship Ship 5 created: take=0, leave=20
+[Ship 2] Ship 2 has received permission to dock. Available berths: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[Ship 3] Ship 3 has received permission to dock. Available berths: 0
+[main] Ship Ship 6 created: take=0, leave=20
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[Ship 4] Ship 4 started
+[main] Ship Ship 7 created: take=0, leave=20
+[Ship 5] Ship 5 started
+[Ship 6] Ship 6 started
+[main] Created 8 ships
+[Ship 7] Ship 7 started
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 14
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 14
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 14
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 14
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 13
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 13
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 13
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 12
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 12
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 12
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 12
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 11
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 11
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 11
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 11
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 10
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 10
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 10
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 10
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 9
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 9
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 9
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 8
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 8
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 8
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 7
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 7
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 7
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 6
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 6
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 6
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 6
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 5
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 5
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 5
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 4
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 4
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 4
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 4
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 3
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 2
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 0
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 has finished all tasks
+[Ship 0] Ship 0 has finished all tasks
+[Ship 2] Ship 2 has finished all tasks
+[Ship 3] Ship 3 has finished all tasks
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 20/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 20/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 20/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 20/1000
+[Ship 4] Ship 4 has received permission to dock. Available berths: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 has received permission to dock. Available berths: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 has received permission to dock. Available berths: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 15
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 15
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 15
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 14
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 14
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 14
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 13
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 13
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 12
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 12
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 12
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 11
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 11
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 10
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 10
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 10
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 10
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 9
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 9
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 9
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 8
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 8
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 8
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 7
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 6
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 6
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 6
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 5
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 4
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 1
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 0
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 0
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 0
+[Ship 7] Ship 7 has finished all tasks
+[Ship 5] Ship 5 has finished all tasks
+[Ship 4] Ship 4 has finished all tasks
+[Ship 6] Ship 6 has finished all tasks
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[main] All ships have finished their tasks
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[Ship 1] Ship 1 started
+[Ship 2] Ship 2 started
+[main] Ship Ship 4 created: take=0, leave=20
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[Ship 3] Ship 3 started
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[Ship 3] Ship 3 has received permission to dock. Available berths: 1
+[main] Ship Ship 5 created: take=0, leave=20
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[Ship 2] Ship 2 has received permission to dock. Available berths: 0
+[main] Ship Ship 6 created: take=0, leave=20
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[Ship 5] Ship 5 started
+[Ship 4] Ship 4 started
+[main] Ship Ship 7 created: take=0, leave=20
+[Ship 6] Ship 6 started
+[main] Created 8 ships
+[Ship 7] Ship 7 started
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 96/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 96/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 96/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 96/1000
+[Ship 5] Ship 5 has received permission to dock. Available berths: 3
+[Ship 4] Ship 4 has received permission to dock. Available berths: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 has received permission to dock. Available berths: 1
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 3] Ship 3 has received permission to dock. Available berths: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 has received permission to dock. Available berths: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 1] Ship 1 has received permission to dock. Available berths: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 has received permission to dock. Available berths: 0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 96/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 96/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 96/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 96/1000
+[Ship 5] Ship 5 has received permission to dock. Available berths: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 has received permission to dock. Available berths: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 has received permission to dock. Available berths: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[Ship 2] Ship 2 has received permission to dock. Available berths: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 3] Ship 3 has received permission to dock. Available berths: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 has received permission to dock. Available berths: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 has received permission to dock. Available berths: 0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 96/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 96/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 96/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 96/1000
+[Ship 7] Ship 7 has received permission to dock. Available berths: 3
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 has received permission to dock. Available berths: 2
+[Ship 5] Ship 5 has received permission to dock. Available berths: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 has received permission to dock. Available berths: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 2] Ship 2 has received permission to dock. Available berths: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 has received permission to dock. Available berths: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 has received permission to dock. Available berths: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 1] Ship 1 has received permission to dock. Available berths: 0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 96/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 96/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 96/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 96/1000
+[Ship 5] Ship 5 has received permission to dock. Available berths: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 has received permission to dock. Available berths: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 has received permission to dock. Available berths: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 3] Ship 3 has received permission to dock. Available berths: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 has received permission to dock. Available berths: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 has received permission to dock. Available berths: 1
+[Ship 1] Ship 1 has received permission to dock. Available berths: 0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 96/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 96/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 96/1000
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[Ship 1] Ship 1 started
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[Ship 2] Ship 2 started
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[Ship 2] Ship 2 has received permission to dock. Available berths: 1
+[main] Ship Ship 4 created: take=0, leave=20
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[Ship 3] Ship 3 started
+[main] Ship Ship 5 created: take=0, leave=20
+[Ship 3] Ship 3 has received permission to dock. Available berths: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 6 created: take=0, leave=20
+[Ship 4] Ship 4 started
+[main] Ship Ship 7 created: take=0, leave=20
+[Ship 5] Ship 5 started
+[Ship 6] Ship 6 started
+[main] Created 8 ships
+[Ship 7] Ship 7 started
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 14
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 14
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 14
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 14
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 13
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 13
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 13
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 12
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 12
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 12
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 12
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 11
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 11
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 11
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 11
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 10
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 10
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 10
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 10
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 9
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 9
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 9
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 8
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 8
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 8
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 7
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 7
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 7
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 6
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 6
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 6
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 6
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 5
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 5
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 5
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 4
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 4
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 4
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 4
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 3
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 2
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 0
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 0
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 has finished all tasks
+[Ship 2] Ship 2 has finished all tasks
+[Ship 3] Ship 3 has finished all tasks
+[Ship 0] Ship 0 has finished all tasks
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 20/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 20/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 20/1000
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 20/1000
+[Ship 4] Ship 4 has received permission to dock. Available berths: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 has received permission to dock. Available berths: 2
+[Ship 6] Ship 6 has received permission to dock. Available berths: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 15
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 15
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 15
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 14
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 14
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 13
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 13
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 13
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 12
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 12
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 11
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 11
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 11
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 10
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 10
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 10
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 10
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 9
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 9
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 8
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 8
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 7
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 7
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 6
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 6
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 6
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 5
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 5
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 4
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 4
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 3
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 1
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 0
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 0
+[Ship 4] Ship 4 has finished all tasks
+[Ship 7] Ship 7 has finished all tasks
+[Ship 5] Ship 5 has finished all tasks
+[Ship 6] Ship 6 has finished all tasks
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[main] All ships have finished their tasks
+[main] Starting port simulation
+[main] Port config loaded: berths=4, capacity=1000, initial=100
+[main] Loaded 8 ship configurations
+[main] Port initialized: 4 berths, capacity: 1000, current containers: 100
+[main] Ship Ship 0 created: take=20, leave=0
+[main] Ship Ship 1 created: take=20, leave=0
+[Ship 0] Ship 0 started
+[main] Ship Ship 2 created: take=20, leave=0
+[Ship 0] Ship 0 has received permission to dock. Available berths: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 3 created: take=20, leave=0
+[Ship 1] Ship 1 started
+[Ship 3] Ship 3 started
+[main] Ship Ship 4 created: take=0, leave=20
+[Ship 1] Ship 1 has received permission to dock. Available berths: 2
+[Ship 2] Ship 2 started
+[Ship 2] Ship 2 has received permission to dock. Available berths: 1
+[main] Ship Ship 5 created: take=0, leave=20
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 19
+[Ship 3] Ship 3 has received permission to dock. Available berths: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 19
+[main] Ship Ship 6 created: take=0, leave=20
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 19
+[Ship 6] Ship 6 started
+[Ship 4] Ship 4 started
+[main] Ship Ship 7 created: take=0, leave=20
+[Ship 5] Ship 5 started
+[main] Created 8 ships
+[Ship 7] Ship 7 started
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 18
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 18
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 18
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 17
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 17
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 17
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 17
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 16
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 16
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 16
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 16
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 15
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 15
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 15
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 15
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 14
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 14
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 14
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 14
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 13
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 13
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 13
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 13
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 12
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 12
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 12
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 12
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 11
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 11
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 11
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 11
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 10
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 10
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 10
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 10
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 9
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 9
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 9
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 9
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 8
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 8
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 8
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 8
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 7
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 7
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 7
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 7
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 6
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 6
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 6
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 6
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 5
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 5
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 5
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 5
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 4
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 4
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 4
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 4
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 3
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 3
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 3
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 3
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 2
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 2
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 2
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 2
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 1
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 1
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 1
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 1
+[Ship 0] Ship 0 loaded 1 container. Remaining to load: 0
+[Ship 2] Ship 2 loaded 1 container. Remaining to load: 0
+[Ship 1] Ship 1 loaded 1 container. Remaining to load: 0
+[Ship 3] Ship 3 loaded 1 container. Remaining to load: 0
+[Ship 0] Ship 0 has finished all tasks
+[Ship 2] Ship 2 has finished all tasks
+[Ship 1] Ship 1 has finished all tasks
+[Ship 3] Ship 3 has finished all tasks
+[Ship 0] Ship 0 is leaving berth
+[Ship 0] Current containers in Port: 20/1000
+[Ship 1] Ship 1 is leaving berth
+[Ship 1] Current containers in Port: 20/1000
+[Ship 2] Ship 2 is leaving berth
+[Ship 2] Current containers in Port: 20/1000
+[Ship 3] Ship 3 is leaving berth
+[Ship 3] Current containers in Port: 20/1000
+[Ship 6] Ship 6 has received permission to dock. Available berths: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 19
+[Ship 4] Ship 4 has received permission to dock. Available berths: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 has received permission to dock. Available berths: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 19
+[Ship 7] Ship 7 has received permission to dock. Available berths: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 19
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 18
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 18
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 18
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 17
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 17
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 17
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 16
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 16
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 16
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 16
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 15
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 15
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 15
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 14
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 14
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 14
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 14
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 13
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 13
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 13
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 13
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 12
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 12
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 12
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 12
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 11
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 11
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 11
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 11
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 10
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 10
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 10
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 10
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 9
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 9
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 9
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 9
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 8
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 8
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 8
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 8
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 7
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 7
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 7
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 7
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 6
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 6
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 6
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 5
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 5
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 5
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 4
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 4
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 4
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 4
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 3
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 3
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 3
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 3
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 2
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 2
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 2
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 2
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 1
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 1
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 1
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 1
+[Ship 4] Ship 4 unloaded 1 container. Remaining to unload: 0
+[Ship 5] Ship 5 unloaded 1 container. Remaining to unload: 0
+[Ship 6] Ship 6 unloaded 1 container. Remaining to unload: 0
+[Ship 7] Ship 7 unloaded 1 container. Remaining to unload: 0
+[Ship 4] Ship 4 has finished all tasks
+[Ship 5] Ship 5 has finished all tasks
+[Ship 7] Ship 7 has finished all tasks
+[Ship 6] Ship 6 has finished all tasks
+[Ship 4] Ship 4 is leaving berth
+[Ship 4] Current containers in Port: 100/1000
+[Ship 5] Ship 5 is leaving berth
+[Ship 5] Current containers in Port: 100/1000
+[Ship 7] Ship 7 is leaving berth
+[Ship 7] Current containers in Port: 100/1000
+[Ship 6] Ship 6 is leaving berth
+[Ship 6] Current containers in Port: 100/1000
+[main] All ships have finished their tasks
