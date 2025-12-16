@@ -11,10 +11,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class Port {
     private static final Logger logger = LogManager.getLogger();
-
     private static Port instance;
-    private static final ReentrantLock instanceLock = new ReentrantLock();
-
     private final ReentrantLock lock = new ReentrantLock();
     private final Condition berthAvailable = lock.newCondition();
     private final List<Thread> dockedShips = new ArrayList<>();
@@ -32,16 +29,11 @@ public class Port {
     }
 
     public static Port getInstance(int berths, int containersCapacity, int currentContainers) {
+
         if (instance == null) {
-            instanceLock.lock();
-            try {
-                if (instance == null) {
-                    instance = new Port(berths, containersCapacity, currentContainers);
-                }
-            } finally {
-                instanceLock.unlock();
-            }
+            instance = new Port(berths, containersCapacity, currentContainers);
         }
+
         return instance;
     }
 
