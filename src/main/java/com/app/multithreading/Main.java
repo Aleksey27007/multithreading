@@ -34,7 +34,7 @@ public class Main {
             }
         }
 
-        Port port = new Port(
+        Port port = Port.getInstance(
             configManager.getPortBerths(),
             configManager.getPortCapacity(),
             configManager.getPortInitialContainers()
