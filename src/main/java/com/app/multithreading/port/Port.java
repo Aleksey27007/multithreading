@@ -12,23 +12,44 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Port {
     private static final Logger logger = LogManager.getLogger();
 
+    private static Port instance;
+    private static final ReentrantLock instanceLock = new ReentrantLock();
+
     private final ReentrantLock lock = new ReentrantLock();
     private final Condition berthAvailable = lock.newCondition();
     private final List<Thread> dockedShips = new ArrayList<>();
     private final int containersCapacity;
 
     private int availableBerths;
-
     private int currentContainers;
 
-
-
-    public Port(int berths, int containersCapacity, int currentContainers) {
+    private Port(int berths, int containersCapacity, int currentContainers) {
         this.availableBerths = berths;
         this.containersCapacity = containersCapacity;
         this.currentContainers = currentContainers;
         logger.info("Port initialized: {} berths, capacity: {}, current containers: {}",
                 berths, containersCapacity, currentContainers);
+    }
+
+    public static Port getInstance(int berths, int containersCapacity, int currentContainers) {
+        if (instance == null) {
+            instanceLock.lock();
+            try {
+                if (instance == null) {
+                    instance = new Port(berths, containersCapacity, currentContainers);
+                }
+            } finally {
+                instanceLock.unlock();
+            }
+        }
+        return instance;
+    }
+
+    public static Port getInstance() {
+        if (instance == null) {
+            throw new IllegalStateException("Port not initialized. Call getInstance(berths, capacity, currentContainers) first.");
+        }
+        return instance;
     }
 
     public boolean addContainer() {
