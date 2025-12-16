@@ -29,17 +29,8 @@ public class Port {
     }
 
     public static Port getInstance(int berths, int containersCapacity, int currentContainers) {
-
         if (instance == null) {
             instance = new Port(berths, containersCapacity, currentContainers);
-        }
-
-        return instance;
-    }
-
-    public static Port getInstance() {
-        if (instance == null) {
-            throw new IllegalStateException("Port not initialized. Call getInstance(berths, capacity, currentContainers) first.");
         }
         return instance;
     }
