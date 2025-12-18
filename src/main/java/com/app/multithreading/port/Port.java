@@ -7,10 +7,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Port {
     private static final Logger logger = LogManager.getLogger();
+    private static final Lock portLock = new ReentrantLock();
     private static Port instance;
     private final ReentrantLock lock = new ReentrantLock();
     private final Condition berthAvailable = lock.newCondition();
@@ -29,10 +31,15 @@ public class Port {
     }
 
     public static Port getInstance(int berths, int containersCapacity, int currentContainers) {
-        if (instance == null) {
-            instance = new Port(berths, containersCapacity, currentContainers);
+        portLock.lock();
+        try {
+            if (instance == null) {
+                instance = new Port(berths, containersCapacity, currentContainers);
+            }
+            return instance;
+        } finally {
+            portLock.unlock();
         }
-        return instance;
     }
 
     public boolean addContainer() {
